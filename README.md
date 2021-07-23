@@ -1,2 +1,4 @@
 # ACM
- ACM solved problems
+ACM solved problems
+
+**NOTE:** Please do not submit any of these as your own solution.
